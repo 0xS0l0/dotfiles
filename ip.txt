@@ -7,6 +7,6 @@
 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
     link/ether 08:00:27:21:b1:d0 brd ff:ff:ff:ff:ff:ff
     inet 10.0.2.15/24 brd 10.0.2.255 scope global dynamic noprefixroute eth0
-       valid_lft 79941sec preferred_lft 79941sec
+       valid_lft 79671sec preferred_lft 79671sec
     inet6 fe80::7641:ddf6:2646:81b8/64 scope link noprefixroute 
        valid_lft forever preferred_lft forever
