@@ -223,10 +223,10 @@ gaps inner 10
 gaps outer 25
 
 # polybar
-exec_always bash /home/r00768/.config/polybar/launch.sh --panels
+exec_always bash ~/.config/polybar/launch.sh --panels
 
 # wallpaper
 
-exec_always feh --bg-fill /home/r00768/Pictures/main-wall.jpg
+exec_always feh --bg-fill ~/.config/i3/main-wall.jpg
 
 exec xcompmgr -c -f -n
