@@ -1,4 +1,4 @@
-# dotfiles
+# i3 dotfiles
 
 <summary> Dependencies</summary> <br>
 
