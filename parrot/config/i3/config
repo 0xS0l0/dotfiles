@@ -227,5 +227,5 @@ exec_always bash ~/.config/polybar/launch.sh --panels
 
 # wallpaper
 
-exec_always feh --bg-fill ~/.config/polybar/panels/wallpapers/deepin.jpg
+exec_always feh --bg-fill ~/.config/i3/main-wall1.jpg
 
